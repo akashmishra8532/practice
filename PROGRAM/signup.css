@@ -1,0 +1,32 @@
+input[type = text],input[type = password]{
+	width: 100%;
+	font-size: 20px;
+	padding: 12px;
+	margin: 5px 0px 22px 0px;
+	background: #e0cc48
+}
+*{box-sizing: border-box;
+}
+label{
+	font-size: 25px;
+}
+body{
+     background-image:  url(https://www.setaswall.com/wp-content/uploads/2018/11/PUBG-Phone-Wallpaper-03-1080x2340-768x1664.jpg)
+ }
+button{
+	background-color: rgb(10,120,15);
+	color:white;
+	padding: 15px 20px;
+	margin: 10px 0px;
+	border: none;
+	cursor: pointer;
+	width: 100%
+	opacity: 0.6;
+}
+button:hover{
+	opacity: 1;
+}
+.cancel{
+	padding: 15px 20px;
+	background-color: #f21d1d; 
+}

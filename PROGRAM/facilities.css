@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/206/268/839/pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg");
+    background-size: cover;
+    color: white;
+}
+nav h1{    font-size: 60px;
+    color: #1388e8;
+    text-align: center;
+}
+ul li a{
+    font-size: 40px;
+    color: aquamarine;
+    
+}
+div p{
+    font-size: 60px;
+    color: aqua;
+}
